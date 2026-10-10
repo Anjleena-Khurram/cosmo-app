@@ -1,0 +1,38 @@
+name: cosmo_app
+
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^4.2.0
+  firebase_auth: ^6.1.0
+  http: ^1.6.0
+  flutter_svg: ^2.0.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/foundation.png
+    - assets/cosmo_hero.png
+    - assets/foundation_product.png
+    - assets/lipstick_product.png
+    - assets/compact_product.png
+    - assets/eye_product.png
+    - assets/dior_capture_totale.png
+    - assets/estee_lauder_foundation.png
+    - assets/mineral_primer.png

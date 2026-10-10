@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059695762585",
+    "project_id": "cosmo-app-7946c",
+    "storage_bucket": "cosmo-app-7946c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059695762585:android:f403e8e620cacd17182c08",
+        "android_client_info": {
+          "package_name": "com.example.cosmo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgT0XBPeBZTxGC1tACMg-7T5PSjN9fUfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

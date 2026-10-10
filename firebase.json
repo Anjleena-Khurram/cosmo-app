@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "cosmo-app-7946c",
+          "appId": "1:1059695762585:android:f403e8e620cacd17182c08",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "cosmo-app-7946c",
+          "configurations": {
+            "android": "1:1059695762585:android:f403e8e620cacd17182c08",
+            "ios": "1:1059695762585:ios:c2943535a4c3b8bd182c08",
+            "macos": "1:1059695762585:ios:c2943535a4c3b8bd182c08",
+            "web": "1:1059695762585:web:e9619a955ea4d1e9182c08",
+            "windows": "1:1059695762585:web:ca9c613cfa312c99182c08"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

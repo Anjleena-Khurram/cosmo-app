@@ -1,0 +1,24 @@
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.flutter-plugins-dependencies
+
+# IDE files
+.idea/
+.vscode/
+
+# Node.js backend dependencies
+node_modules/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+firebase-adminsdk*.json
+serviceAccountKey.json
+
+# Local machine files
+.DS_Store
